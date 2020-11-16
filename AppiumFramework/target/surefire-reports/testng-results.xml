@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="133314" started-at="2020-11-16T15:26:38 IST" finished-at="2020-11-16T15:28:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="133314" started-at="2020-11-16T15:26:38 IST" finished-at="2020-11-16T15:28:51 IST">
+      <class name="qaclickacademy.javamaven.basics">
+        <test-method status="PASS" signature="apiDemoTest(java.lang.String)[pri:0, instance:qaclickacademy.javamaven.basics@4e7dc304]" name="apiDemoTest" duration-ms="36594" started-at="2020-11-16T15:27:36 IST" data-provider="InputData" finished-at="2020-11-16T15:28:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoTest -->
+        <test-method status="PASS" signature="apiDemoTest(java.lang.String)[pri:0, instance:qaclickacademy.javamaven.basics@4e7dc304]" name="apiDemoTest" duration-ms="39290" started-at="2020-11-16T15:28:12 IST" data-provider="InputData" finished-at="2020-11-16T15:28:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoTest -->
+      </class> <!-- qaclickacademy.javamaven.basics -->
+      <class name="qaclickacademy.javamaven.ecommerce1">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:qaclickacademy.javamaven.ecommerce1@2d6eabae]" name="killAllNodes" is-config="true" duration-ms="3053" started-at="2020-11-16T15:26:38 IST" finished-at="2020-11-16T15:26:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="Validation()[pri:0, instance:qaclickacademy.javamaven.ecommerce1@2d6eabae]" name="Validation" duration-ms="54241" started-at="2020-11-16T15:26:41 IST" finished-at="2020-11-16T15:27:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validation -->
+      </class> <!-- qaclickacademy.javamaven.ecommerce1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

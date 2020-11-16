@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="280" started-at="2020-11-16T20:04:47 IST" finished-at="2020-11-16T20:04:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="280" started-at="2020-11-16T20:04:47 IST" finished-at="2020-11-16T20:04:47 IST">
+      <class name="qaclickacademy.javamaven.DatabaseConnection">
+        <test-method status="PASS" signature="DBConnection()[pri:0, instance:qaclickacademy.javamaven.DatabaseConnection@1877ab81]" name="DBConnection" duration-ms="249" started-at="2020-11-16T20:04:47 IST" finished-at="2020-11-16T20:04:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBConnection -->
+      </class> <!-- qaclickacademy.javamaven.DatabaseConnection -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
